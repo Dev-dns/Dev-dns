@@ -1,6 +1,6 @@
 # dnsdev
 
-# 💫 Sobre Mi:
+# Sobre Mi:
 Actualmente soy un estudiante de un **Ciclo Superior - Desarrollo de Aplicaciones Multiplataforma.**
 
 Formandome en tecnologias y lenguajes como **Python, Java, SQL.**
